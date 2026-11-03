@@ -52,7 +52,7 @@ Only if I ask, and only boilerplate that is not what I am learning that week:
 
 ## Context
 
-- Plan: 26 weeks, 9 Nov 2026 to 9 May 2027.
+- Plan: 26 weeks, 9 Nov 2026 to 9 May 2027. The full week-by-week plan is in `ROADMAP.md`: what to learn, the exact resource (chapter or page), the practice task and the "Done when" check for each week. When I ask "what should I do now?" or "am I on track?", read the latest journal file and the matching week in `ROADMAP.md`, then answer from those. Do not invent a different plan; if I want to change it, I will edit `ROADMAP.md` myself.
 - Layout: folders by topic (`python/`, `sql/`, `typescript/`, `react/`, `ai/`, `dsa/<pattern>/`, `cs-fundamentals/` and so on). The weekly log is `journal/week-NN.md`. Check the latest journal file to see what week I am in and what I am working on.
 - Main language: Python 3.12+. TypeScript from week 10.
 - OS: Ubuntu on WSL2.

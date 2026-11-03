@@ -1,11 +1,12 @@
 {
   "permissions": {
     "deny": [
-      "Edit(**/*.py)", "Write(**/*.py)",
-      "Edit(**/*.ts)", "Write(**/*.ts)",
-      "Edit(**/*.tsx)", "Write(**/*.tsx)",
-      "Edit(**/*.js)", "Write(**/*.js)",
-      "Edit(**/*.sql)", "Write(**/*.sql)"
+      "Edit(**/*.py)",
+      "Edit(**/*.ts)",
+      "Edit(**/*.tsx)",
+      "Edit(**/*.js)",
+      "Edit(**/*.jsx)",
+      "Edit(**/*.sql)"
     ]
   }
 }

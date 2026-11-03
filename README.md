@@ -48,6 +48,7 @@ learning-2027/
 ├── journal/
 │   ├── week-01.md              # plan, what I did, DSA log, what confused me
 │   └── ...
+├── ROADMAP.md                  # the full week-by-week plan
 ├── CLAUDE.md                   # rules for the AI tutor in this repo
 └── .claude/settings.json       # blocks AI edits to code files
 ```
@@ -55,6 +56,8 @@ learning-2027/
 Folders are created when I reach that topic. Projects live in their own repos and are linked below when done.
 
 ## Plan
+
+Full week-by-week plan with resources: [ROADMAP.md](ROADMAP.md).
 
 | Weeks | Dates | Phase | Finish with |
 | --- | --- | --- | --- |
